@@ -1,0 +1,116 @@
+{
+  "title": "Terms of Service – Link2Builder",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "1. Acceptance of Terms",
+      "content": "By accessing or using Link2Builder, you agree to comply with these Terms, our Privacy Policy, and all applicable laws. If you do not agree, you must not use the platform."
+    },
+    {
+      "id": 2,
+      "heading": "2. Platform Overview",
+      "content": "Link2Builder is a digital platform that connects buyers with verified builders via video calls to explore real estate projects before physical visits."
+    },
+    {
+      "id": 3,
+      "heading": "3. User Eligibility",
+      "list": [
+        "You must be 18 years or older",
+        "You must provide accurate and complete information",
+        "Fake accounts or impersonation are strictly prohibited"
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "4. Account Responsibility",
+      "list": [
+        "You are responsible for your login credentials",
+        "Any activity under your account is your responsibility",
+        "Link2Builder is not liable for unauthorized account access"
+      ]
+    },
+    {
+      "id": 5,
+      "heading": "5. Services Offered",
+      "content": "Link2Builder offers the following services:",
+      "list": [
+        "Free/paid video consultations with builders",
+        "Project information and property listings",
+        "Direct communication with builders"
+      ],
+      "note": "Important: Link2Builder is a facilitator, not a property seller. We do not guarantee property availability, pricing, or investment returns."
+    },
+    {
+      "id": 6,
+      "heading": "6. Builder Verification Disclaimer",
+      "content": "Builders may be “verified” through internal checks. However, users must conduct their own due diligence before any transaction."
+    },
+    {
+      "id": 7,
+      "heading": "7. Payments & Charges",
+      "list": [
+        "Some services may be free (e.g., video calls)",
+        "Any paid services must be paid in advance",
+        "Payments once made may be non-refundable unless stated otherwise"
+      ]
+    },
+    {
+      "id": 8,
+      "heading": "8. Prohibited Activities",
+      "content": "Users must not:",
+      "list": [
+        "Share false or misleading information",
+        "Harass or abuse other users/builders",
+        "Use bots, spam, or unauthorized automation",
+        "Attempt to copy or misuse platform data"
+      ]
+    },
+    {
+      "id": 9,
+      "heading": "9. Intellectual Property",
+      "content": "All platform content (logo, design, data) belongs to Link2Builder. Users cannot copy, reproduce, or distribute without permission."
+    },
+    {
+      "id": 10,
+      "heading": "10. Third-Party Interactions",
+      "content": "Any deal between buyer and builder is independent of Link2Builder. We are not responsible for disputes, fraud, or project issues."
+    },
+    {
+      "id": 11,
+      "heading": "11. Limitation of Liability",
+      "content": "Link2Builder is not liable for:",
+      "list": [
+        "Property disputes",
+        "Financial loss or investment risks",
+        "Builder commitments or delays"
+      ]
+    },
+    {
+      "id": 12,
+      "heading": "12. Termination",
+      "content": "We reserve the right to:",
+      "list": [
+        "Suspend or terminate accounts for violations",
+        "Remove content or restrict access without notice"
+      ]
+    },
+    {
+      "id": 13,
+      "heading": "13. Changes to Terms",
+      "content": "We may update these terms at any time. Continued use means acceptance of updated terms."
+    },
+    {
+      "id": 14,
+      "heading": "14. Governing Law",
+      "content": "These terms shall be governed by the laws of India, with jurisdiction in your operating city."
+    },
+    {
+      "id": 15,
+      "heading": "15. Contact",
+      "content": "For support or legal queries:",
+      "list": [
+        "link2builderhelp@gmail.com"
+      ]
+    }
+  ]
+}

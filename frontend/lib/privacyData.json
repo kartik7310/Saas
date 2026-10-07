@@ -1,0 +1,115 @@
+{
+  "title": "Privacy Policy – Link2Builder",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "1. Introduction",
+      "content": "Link2Builder (“we”, “our”, “platform”) values your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information."
+    },
+    {
+      "id": 2,
+      "heading": "2. Information We Collect",
+      "subsections": [
+        {
+          "heading": "a) Personal Information",
+          "list": [
+            "Name, phone number, email address",
+            "Location details",
+            "Any information shared during registration or inquiries"
+          ]
+        },
+        {
+          "heading": "b) Usage Data",
+          "list": [
+            "App/website activity",
+            "Device information, IP address, browser type",
+            "Interaction with listings and video calls"
+          ]
+        },
+        {
+          "heading": "c) Communication Data",
+          "list": [
+            "Messages, call details, and interactions with builders (for service improvement and safety)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "3. How We Use Your Information",
+      "content": "We use your data to:",
+      "list": [
+        "Connect you with verified builders",
+        "Schedule and manage video calls",
+        "Provide property details and recommendations",
+        "Improve platform performance and user experience",
+        "Send updates, offers, and service notifications"
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "4. Sharing of Information",
+      "content": "We may share your information with:",
+      "list": [
+        "Builders you connect with through the platform",
+        "Service providers (payment gateways, hosting, analytics)",
+        "Legal authorities, if required by law"
+      ],
+      "note": "We do not sell your personal data to third parties."
+    },
+    {
+      "id": 5,
+      "heading": "5. Data Security",
+      "list": [
+        "We implement reasonable security measures to protect your data",
+        "However, no digital platform can guarantee 100% security"
+      ]
+    },
+    {
+      "id": 6,
+      "heading": "6. Cookies & Tracking",
+      "list": [
+        "We may use cookies and similar technologies",
+        "These help improve user experience and analyze usage patterns"
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "7. User Rights",
+      "content": "You have the right to:",
+      "list": [
+        "Access or update your personal data",
+        "Request deletion of your account",
+        "Opt out of marketing communications"
+      ]
+    },
+    {
+      "id": 8,
+      "heading": "8. Data Retention",
+      "content": "We retain your data only as long as necessary for service and legal purposes"
+    },
+    {
+      "id": 9,
+      "heading": "9. Third-Party Links",
+      "content": "Our platform may contain links to third-party websites. We are not responsible for their privacy practices."
+    },
+    {
+      "id": 10,
+      "heading": "10. Children’s Privacy",
+      "content": "Our platform is not intended for users under 18 years"
+    },
+    {
+      "id": 11,
+      "heading": "11. Changes to Policy",
+      "content": "We may update this Privacy Policy from time to time. Continued use of the platform means acceptance of updates."
+    },
+    {
+      "id": 12,
+      "heading": "12. Contact Us",
+      "content": "For any privacy-related concerns:",
+      "list": [
+        "link2builder@gmail.com"
+      ]
+    }
+  ]
+}

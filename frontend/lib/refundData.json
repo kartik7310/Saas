@@ -1,0 +1,84 @@
+{
+  "title": "Refund Policy – Link2Builder",
+  "sections": [
+    {
+      "id": 1,
+      "heading": "1. General Policy",
+      "content": "Link2Builder strives to provide a smooth and transparent experience. Refunds are applicable only under specific conditions mentioned below."
+    },
+    {
+      "id": 2,
+      "heading": "2. Free Services",
+      "list": [
+        "Services such as free video calls with builders are non-chargeable",
+        "No refund is applicable for free services"
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "3. Paid Services",
+      "content": "For any paid services (e.g., premium listings, priority connections, or featured access):",
+      "subsections": [
+        {
+          "heading": "✅ Eligible for Refund:",
+          "list": [
+            "Payment made but service not delivered",
+            "Technical failure from Link2Builder side preventing service usage",
+            "Duplicate payment or incorrect charge"
+          ]
+        },
+        {
+          "heading": "❌ Not Eligible for Refund:",
+          "list": [
+            "Change of mind after service is delivered",
+            "Dissatisfaction with builder/project",
+            "No response or delay from builder",
+            "User fails to attend scheduled video call",
+            "Incorrect information provided by user"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "4. Refund Timeline",
+      "list": [
+        "Refund requests must be raised within 7 days of payment",
+        "Approved refunds will be processed within 7–10 business days",
+        "Refunds will be credited to the original payment method"
+      ]
+    },
+    {
+      "id": 5,
+      "heading": "5. Cancellation Policy",
+      "list": [
+        "Users can cancel a scheduled service before it starts",
+        "Once a service is initiated or completed, it is non-refundable"
+      ]
+    },
+    {
+      "id": 6,
+      "heading": "6. Third-Party Transactions",
+      "list": [
+        "Link2Builder is not responsible for payments made directly to builders",
+        "Any such transactions are non-refundable through Link2Builder"
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "7. Dispute Resolution",
+      "list": [
+        "All refund disputes will be reviewed internally",
+        "Final decision rests with Link2Builder"
+      ]
+    },
+    {
+      "id": 8,
+      "heading": "8. Contact for Refunds",
+      "content": "To request a refund, contact:",
+      "list": [
+        "link2builderhelp@gmail.com"
+      ]
+    }
+  ]
+}
